@@ -25,7 +25,7 @@ acao-solidaria-brasil/
 │   └── templates.js
 │
 └── assets/
-    └── media/
+    └── imagens
 </pre>
 
 ---
